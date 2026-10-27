@@ -1,4 +1,97 @@
 {
-  "about": "TODO(dataset): written by inventory-app's scripts/minisites/legacy-minisite.mjs, with every picture of the frame taken from the legacy exhibition.",
-  "files": {}
+  "about": "The frame this website takes from legacy Discover Islamic Art's virtual exhibition The Normans in Sicily (exhibitions/ISL/siculo_norman/), each file as legacy serves it, byte for byte; the curators' logos come from the exhibitions' shared sponsor_logo folder. tests/assets.test.js checks every file against its hash.",
+  "files": {
+    "theme/assets/legacy/arrow_inner_black.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/siculo_norman/images/arrow_inner_black.gif",
+      "sha256": "a969e5e62fe3c75dcb4e05ef1ca4e38f67a528916db802c229511b44567bd87a"
+    },
+    "theme/assets/legacy/bg_fading_left.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/siculo_norman/images/bg_fading_left.gif",
+      "sha256": "ee75fa6d77e15a0650b16d987322dadc1a43269366606a6c41c09a215a2f6303"
+    },
+    "theme/assets/legacy/bg_fading_right.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/siculo_norman/images/bg_fading_right.gif",
+      "sha256": "1106178de6bab1f873c52c7a70abb0f9dc15b28abe045b2c873230e5f019d66d"
+    },
+    "theme/assets/legacy/exhibition_bg_ar.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/siculo_norman/images/exhibition_bg_ar.jpg",
+      "sha256": "63d4845911051435e116412593d0dcaba9cf29d863f8fbe7f2d44dfe85e48875"
+    },
+    "theme/assets/legacy/exhibition_bg.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/siculo_norman/images/exhibition_bg.jpg",
+      "sha256": "13b50a43f5192f31dfb8ea23b0b0a25833431380bcd2fe5432b0892c2e6f59fb"
+    },
+    "theme/assets/legacy/home_bg_ar.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/siculo_norman/images/home_bg_ar.jpg",
+      "sha256": "886bf98ef17511ef61675556905071e1ade8a8c1935ef076001a06a0d28106ae"
+    },
+    "theme/assets/legacy/home_bg.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/siculo_norman/images/home_bg.jpg",
+      "sha256": "697b709b1c493d8fc843b48b3b41b567ea26018ae006b704541e3453bd3b0170"
+    },
+    "theme/assets/legacy/ico_item_selected.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/siculo_norman/images/ico_item_selected.gif",
+      "sha256": "8e4e35eebb1dda3a1495a2dc7a9d1a4611d9118f3f683a269823da701989feb5"
+    },
+    "theme/assets/legacy/ico_item.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/siculo_norman/images/ico_item.gif",
+      "sha256": "0b630172707e2ed687751dd70acb096ef905a3ee56421c650c227520e10030c8"
+    },
+    "theme/assets/legacy/intro_bg_ar.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/siculo_norman/images/intro_bg_ar.jpg",
+      "sha256": "fa826e86b81adb2ad4eea33d8c4ea38672ab31e5f3316dd85e75f78450ed03b6"
+    },
+    "theme/assets/legacy/intro_bg.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/siculo_norman/images/intro_bg.jpg",
+      "sha256": "32153dc07a8301a413200a5e4788e904e921f0abe9e5cfcd140b2d77f7c1b184"
+    },
+    "theme/assets/legacy/IT_UNI-25.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/sponsor_logo/IT_UNI-25.gif",
+      "sha256": "776e1411eae37c6a75280be61036480732b20061ab00b208b7d76cf86f72beca"
+    },
+    "theme/assets/legacy/IT-25.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/sponsor_logo/IT-25.gif",
+      "sha256": "f649a9ef358afc4706a6f47818c3c76b86c2e2b7f5f50083125bc21bc6125025"
+    },
+    "theme/assets/legacy/logo_ar.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/siculo_norman/images/logo_ar.gif",
+      "sha256": "8533a0519ffe3ca58bf204a828d4f29d97007bdb5b3d5209db55b5f1ce11b98e"
+    },
+    "theme/assets/legacy/logo_de.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/siculo_norman/images/logo_de.gif",
+      "sha256": "aff919c065fa9e558562fea07f052989076597c48f1948bc9a397b4d3f54b7fa"
+    },
+    "theme/assets/legacy/logo_en.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/siculo_norman/images/logo_en.gif",
+      "sha256": "67babe52172ace79066f27cedd49071f7b6eb8ef560b29070d0288e1504abf72"
+    },
+    "theme/assets/legacy/logo_es.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/siculo_norman/images/logo_es.gif",
+      "sha256": "ddf1a87985d37625dcfde9918e78e69f0de05925108ae6c9c121bd43a6e09f9a"
+    },
+    "theme/assets/legacy/logo_fr.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/siculo_norman/images/logo_fr.gif",
+      "sha256": "ba46ca17917076b78ec717e6c37fd443d3cfb765ebe067f77f23fc5df6fd623b"
+    },
+    "theme/assets/legacy/logo_it.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/siculo_norman/images/logo_it.gif",
+      "sha256": "7fe42ea827482bcb48c36e70251fd7bf9f4ac308f4273291973cef985b80738f"
+    },
+    "theme/assets/legacy/logo_pt.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/siculo_norman/images/logo_pt.gif",
+      "sha256": "972ae158739bdd882f6c7aa83bb9936bf35031d6d0772422eb34a11377b97392"
+    },
+    "theme/assets/legacy/logo_se.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/siculo_norman/images/logo_se.gif",
+      "sha256": "b7f99b6269e5682d8554c42f78410fc95c146a60c79d3ce55d55426c880b717e"
+    },
+    "theme/assets/legacy/logo_tr.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/siculo_norman/images/logo_tr.gif",
+      "sha256": "f9bbfab0b6258cf35d41931795311a4288e5d2e397bce481b70543328b35cfe5"
+    },
+    "theme/assets/legacy/print_dark.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/siculo_norman/images/print_dark.gif",
+      "sha256": "49894d52c06b6f8e1c29b0b3f82245bcd3f439108e4cd3a7c4f16360ed896742"
+    }
+  }
 }
