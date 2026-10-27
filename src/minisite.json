@@ -1,6 +1,19 @@
 {
-  "legacy": "TODO(dataset): run inventory-app's scripts/minisites/legacy-minisite.mjs",
+  "legacy": "https://islamicart.museumwnf.org/exhibitions/ISL/siculo_norman/",
   "menuSecondColumnFrom": 7,
-  "curators": [],
+  "curators": [
+    {
+      "partner": "2970af60-fdee-5b70-8e87-7b8865a0c88d",
+      "logo": "legacy/IT-25.gif",
+      "space": 30
+    },
+    {
+      "name": "University of Palermo, Department of History and Architectural Design",
+      "country": "ita",
+      "href": "",
+      "logo": "legacy/IT_UNI-25.gif",
+      "space": 30
+    }
+  ],
   "maps": 0
 }
